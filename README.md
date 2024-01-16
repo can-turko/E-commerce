@@ -20,7 +20,7 @@ Welcome to the repository of my Full Stack E-commerce application, featuring an 
 
 #### Spring Boot Backend Development ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png)
 - Develop a Spring Boot back-end using REST APIs to handle data flow between the frontend and the database.
-- Utilize MySQL for efficient data storage and retrieval, gaining insights into database integration with Spring Boot. ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
+- Utilize MySQL for efficient data storage and retrieval, gaining insights into database integration with Spring Boot.
 
 #### Shopping Cart Implementation ![Shopping Cart Icon](https://img.icons8.com/ios-filled/48/000000/shopping-cart.png)
 - Design and implement a dynamic shopping cart feature that seamlessly integrates with the Angular frontend and Spring Boot backend.
@@ -29,6 +29,7 @@ Welcome to the repository of my Full Stack E-commerce application, featuring an 
 #### Payment Processing with Stripe ![Stripe Icon](https://img.icons8.com/color/48/000000/stripe.png)
 - Integrate the Stripe API to enable secure and efficient credit card payments within the application.
 - Implement a streamlined checkout process, ensuring a secure and smooth transaction experience for users.
+
 
 ### Key Features
 
@@ -41,8 +42,10 @@ Welcome to the repository of my Full Stack E-commerce application, featuring an 
 - **Dynamic Single Page Website:**
   - A dynamic single-page website architecture for a fluid and engaging user experience.
 
+
 ## Demo
 If available, include a link to a live demo or video demonstration of your application.
+
 
 ## How to run project
 ⚡ Email me at turkoglu.can@gmail.com to get a detailed Guide report with Code to run the project with source Code.
