@@ -44,7 +44,8 @@ Welcome to the repository of my Full Stack E-commerce application, featuring an 
 
 
 ## Demo
-If available, include a link to a live demo or video demonstration of your application.
+![ecommerce](https://github.com/can-turko/E-commerce/assets/110769942/6ea2a2f6-48ee-4549-b42a-15abae22b63c)
+
 
 
 ## How to run project
