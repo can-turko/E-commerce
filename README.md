@@ -3,12 +3,12 @@
 Welcome to the repository of my Full Stack E-commerce application, featuring an Angular front-end and Spring Boot back-end.
 
 ## Technologies Used
-- **Java Spring Boot:** The backend is developed using the Spring Boot framework, providing a robust and scalable foundation for the application. ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png)
-- **Angular:** The frontend is built with Angular, delivering a dynamic and interactive user interface. ![Angular Icon](https://img.icons8.com/color/48/000000/angularjs.png)
+- **Java Spring Boot:** The backend is developed using the Spring Boot framework, providing a robust and scalable foundation for the application.
+- **Angular:** The frontend is built with Angular, delivering a dynamic and interactive user interface. 
 - **HTML/CSS:** Fundamental web technologies utilized for structuring and styling the application's user interface.
 - **[dev.Okta](https://dev.okta.com/):** Integrated for secure user authentication, ensuring a seamless login experience.
-- **[Stripe.com](https://stripe.com/):** Utilized for processing credit card payments, offering a secure and reliable payment solution. ![Stripe Icon](https://img.icons8.com/color/48/000000/stripe.png)
-- **MySQL:** The database management system used to store and manage the application's data. ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
+- **[Stripe.com](https://stripe.com/):** Utilized for processing credit card payments, offering a secure and reliable payment solution.
+- **MySQL:** The database management system used to store and manage the application's data.
 
 ## Project Overview
 
